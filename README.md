@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zied Abdennour 👋
 
-<!--
-**Zied-abdennour/Zied-Abdennour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science Engineering student focused on Artificial Intelligence, AI Engineering, and building practical intelligent systems.
 
-Here are some ideas to get you started:
+I'm interested in developing AI-powered applications, working with Large Language Models (LLMs), and combining algorithms and optimization to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- Python
+- C++
+- SQL
+- Git & GitHub
+- Qt
+- Streamlit
+
+## Current Focus
+
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Application Development
+- Algorithms & Optimization
+
+## Featured Projects
+
+- **AI-Assisted Production Planning System** — Python / Genetic Algorithms / Streamlit
+- **Banking Management System** — C++ / Qt
+- **LLM & RAG Experiments** — Python / Ollama / ChromaDB
+
+## Career Interests
+
+AI Engineering · Applied AI · Intelligent Systems · LLM Applications
